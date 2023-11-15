@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuickSell-Assignment/static/css/main.a6d515b2.css",
+    "main.js": "/QuickSell-Assignment/static/js/main.7d16b2d7.js",
+    "static/media/logo.png": "/QuickSell-Assignment/static/media/logo.768c0f7ec21ce87fdc0b.png",
+    "index.html": "/QuickSell-Assignment/index.html",
+    "main.a6d515b2.css.map": "/QuickSell-Assignment/static/css/main.a6d515b2.css.map",
+    "main.7d16b2d7.js.map": "/QuickSell-Assignment/static/js/main.7d16b2d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d515b2.css",
+    "static/js/main.7d16b2d7.js"
+  ]
+}
