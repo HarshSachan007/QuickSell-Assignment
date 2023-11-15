@@ -29,10 +29,13 @@ const App = () => {
   }, []);
 
 
-  return allTickets ? (<Loading />
-  ) : (
-    <Loading />
-  );
+  return allTickets ? (
+    <div style={{paddingTop : "10px"}} >
+      <TopNav/>
+      <hr style={{marginTop : "10px"}} />
+      <DashView/>
+    </div>
+  ) : <Loading/>
 };
 
 export default App;
